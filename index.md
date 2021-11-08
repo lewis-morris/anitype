@@ -1,21 +1,42 @@
-## Anitype
+# anitype
+Animated javascript typing 
 
-Basic and easy to use animated typing.
+Basic animated typing thats easy to deploy.
 
-### Install 
 
-Just import a copy like so.
+## Import via CDN
+
+Add this tag to the head of your html file.
 
 ```html
-<script src=""></script>
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<script src="https://cdn.jsdelivr.net/gh/lewis-morris/anitype@main/anitype.js" defer></script>
 
-### Jekyll Themes
+````
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lewis-morris/anitype/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Set elements to animate 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    * Add `data-typer` attribute to any element to animate it. 
+    * Split the innerText with pipes ( | )  to animate multiple lines.
+    * Alternatively you can set the text with `data-text="my animated text|just wont stop typing"` 
+
+## Example HTML
+
+
+```html
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/gh/lewis-morris/anitype@main/anitype.js" defer>            
+        </script>        
+    </head>
+    <body style="text-align: center;">
+        <h2 data-typer data-text="I can animate|I make mistakes|We're not all perfect"></h2>
+    </body>
+</html>
+
+````
+
+## Support or Contact
+
+Open a issue or contact me on lewis.morris@gmail.com
