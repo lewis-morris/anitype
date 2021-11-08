@@ -1,0 +1,23 @@
+{
+  "name": "anitype",
+  "version": "0.0.1",
+  "description": "Animated typing library",
+  "main": "anitype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis-morris/anitype.git"
+  },
+  "keywords": [
+    "animation",
+    "animated-typing"
+  ],
+  "author": "Lewis Morris <lewis.morris@gmail.com> (https://github.com/lewis-morris/anitype)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewis-morris/anitype/issues"
+  },
+  "homepage": "https://github.com/lewis-morris/anitype#readme"
+}
