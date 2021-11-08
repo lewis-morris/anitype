@@ -1,0 +1,2 @@
+# anitype
+Animated javascript typing 
