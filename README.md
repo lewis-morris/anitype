@@ -3,6 +3,7 @@ Animated javascript typing
 
 Basic animated typing thats easy to deploy.
 
+![Animation example](example.gif)
 
 ## Import via CDN
 
