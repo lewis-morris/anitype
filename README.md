@@ -18,9 +18,9 @@ Add this tag to the head of your html file.
 
 ## Set elements to animate 
 
-    * Add `data-typer` attribute to any element to animate it. 
-    * Split the innerText with pipes ( | )  to animate multiple lines.
-    * Alternatively you can set the text with `data-text="my animated text|just wont stop typing"` 
+* Add `data-typer` attribute to any element to animate it. 
+* Split the innerText with pipes ( | )  to animate multiple lines.
+* Alternatively you can set the text with `data-text="my animated text|just wont stop typing"` 
 
 ## Example HTML
 
