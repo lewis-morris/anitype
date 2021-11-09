@@ -41,3 +41,10 @@ Add this tag to the head of your html file.
 ## Support or Contact
 
 Open a issue or contact me on lewis.morris@gmail.com
+
+## Todo
+
+[] add start delay
+[] add typing error frequency
+[] add styling options per text block
+[] add speed multiplier
